@@ -1,0 +1,9 @@
+ipython                   7.0.1            py36h39e3cac_0  
+ipython_genutils          0.2.0            py36h241746c_0  
+matplotlib                3.0.1            py36h54f8f79_0  
+numpy                     1.15.2           py36h6a91979_1  
+numpy-base                1.15.2           py36h8a80b8c_1  
+pandas                    0.23.4           py36h6440ff4_0  
+python                    3.6.7                haf84260_0  
+python-dateutil           2.7.3                    py36_0  
+seaborn                   0.9.0                    py36_0  

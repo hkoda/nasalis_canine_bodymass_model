@@ -15,8 +15,9 @@ The code is worked under python3 or anaconda3 with:
 
 ```python nasalis_canine_bodymass_model.py```
 
+## Overviews of the simulations
+The aim of these simulations was to examine our hypothesis regarding the positive/negative correlations between body mass and canine size. Earlier work distinguished the subadult class from fully adult males based on nasal maturation as well as a fully developed body size. In other words, two developmental stages likely exist among sexually mature males. Therefore, before the acquisition of harem status, subadult males reach a limit in body mass, which cannot increase without a status change. By contrast, in females, the development of body mass and canines is basically similar to that of males before the acquisition of harem status. In this study, we therefore assumed a two-stage model of male development, i.e., a first stage with primary development of body and canine size for both males and females and a second stage that only applies to males and only after the acquisition of harem status.
+
 ## Mathematical descriptions
 See `model_s.pdf` file in the `tex` directory.
-
-## Overviews of the simulations
 

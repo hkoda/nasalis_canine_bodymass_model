@@ -11,6 +11,7 @@ The code is worked under python3 or anaconda3 with:
 - Tested on Mac OS 10.14.6
 
 ## Usage
+- Main code for the simulation is `nasalis_canine_bodymass_model.py` in the directory `model`.
 - Run the following code in your terminal.
 
 ```python nasalis_canine_bodymass_model.py```

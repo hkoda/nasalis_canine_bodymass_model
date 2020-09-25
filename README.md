@@ -1,7 +1,7 @@
 # nasalis_canine_bodymass_model
-This is the mathematical models accounting for the observational data (Matsuda et al. 2020. bioRxiv<sup>1</sup>) of canine length and body mass, measured in wild habitat of proboscis monkeys.
+This is the mathematical models accounting for the observational data (Matsuda et al. 2020. Commun Biol 3, 522<sup>1</sup>) of canine length and body mass, measured in wild habitat of proboscis monkeys.
 
-<sup>1</sup> Ikki Matsuda, Danica J. Stark, Diana A. Ramirez Saldivar, Augustine Tuuga, Senthilvel K. S. S. Nathan, Benoit Goossens, Carel P. van Schaik and Hiroki Koda. 2020. Large male proboscis monkeys have larger noses but smaller canines. bioRxiv, 848515. https://www.biorxiv.org/content/10.1101/848515v4. doi: https://doi.org/10.1101/848515
+<sup>1</sup> Ikki Matsuda, Danica J. Stark, Diana A. Ramirez Saldivar, Augustine Tuuga, Senthilvel K. S. S. Nathan, Benoit Goossens, Carel P. van Schaik and Hiroki Koda. 2020. Large male proboscis monkeys have larger noses but smaller canines. Communications Biology 3, 522. https://doi.org/10.1038/s42003-020-01245-0 (preprint appeared in bioRxiv, 848515. https://www.biorxiv.org/content/10.1101/848515v4. doi: https://doi.org/10.1101/848515)
 
 ## Requirements
 The code is worked under python3 or anaconda3 with:
